@@ -13,6 +13,7 @@ body{
     align-items: center;
     height: 100vh;
     gap: 25px;
+    font-family: 'Poppins', sans-serif;
 }
 #key{
     text-align: center;
